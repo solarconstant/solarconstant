@@ -4,7 +4,6 @@
 <!--
 **solarconstant/solarconstant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=solarconstant&show_icons=true&theme=blueberry&hide=Total%20Issues" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarconstant&theme=blueberry&hide=tcl&langs_count=5" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=solarconstant&repo=MoviesAPI&theme=blueberry" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=solarconstant&repo=PyGame-Snake&theme=blueberry" />
