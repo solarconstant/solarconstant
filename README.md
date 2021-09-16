@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Shubh Ashish.
-#### I am a sophomore at PEC, Chandigarh.I am currently working on my Web Development Skills.
+#### I am a 3rd year student at PEC, Chandigarh.I am currently working on my Web Development Skills.
 
 <!--
 **solarconstant/solarconstant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
